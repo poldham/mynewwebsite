@@ -1,0 +1,16 @@
+name: "my-website"
+navbar:
+  title: "My Amazing Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "About Me"
+      href: aboutme.html
+    - text: "My Menu"
+      menu:
+      - text: "Menu Item 1"
+        href: menu1.html
+      - text: "Menu Item 2"
+        href: menu2.html
