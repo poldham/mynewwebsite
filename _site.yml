@@ -14,3 +14,8 @@ navbar:
         href: menu1.html
       - text: "Menu Item 2"
         href: menu2.html
+output:
+  html_document:
+    theme: flatly
+    highlight: pygments
+output_dir: "."        
